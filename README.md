@@ -1,4 +1,4 @@
-# <img src="https://ifce.edu.br/fortaleza/selecoes/jpgs/verificado.png/@@images/image.png"  width="100" height="100" >
+# <img src="https://img.freepik.com/vetores-premium/logotipo-do-simbolo-do-icone-de-marca-de-selecao-verde-em-um-circulo-tick-simbolo-ilustracao-vetorial-de-cor-verde_685751-503.jpg?w=360"  width="100" height="100" >
 
 <p> GT </p>
 <p> O GT é um sistema de gerenciamento de tarefas que vai facilitar a sua vida! Normalmente, enfrentamos rotinas cheias e embaraçosas que acabam afetando na realização de tarefas importantes, por isso estamos aqui para te ajudar! O nosso sistema irá te auxiliar como lembrete de tarefas e seus prazos, assim sua rotina mantém-se organizada e concluída com sucesso!  </p>
