@@ -1,4 +1,4 @@
-# <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoGbozn_CvaBPH08tgAn7vvZMzeQVX33zKOw&usqp=CAU"  width="100" height="100" >
+# <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoGbozn_CvaBPH08tgAn7vvZMzeQVX33zKOw&usqp=CAU](https://www.canva.com/design/DAF8J7EKyIc/EKYYx6DyZPHsIBzaG6cBiA/edit?utm_content=DAF8J7EKyIc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"  width="100" height="100" >
 
 <p> GT </p>
 <p> O GT é um sistema de gerenciamento de tarefas que vai facilitar a sua vida! Normalmente, enfrentamos rotinas cheias e embaraçosas que acabam afetando na realização de tarefas importantes, por isso estamos aqui para te ajudar! O nosso sistema irá te auxiliar como lembrete de tarefas e seus prazos, assim sua rotina mantém-se organizada e concluída com sucesso!  </p>
@@ -10,11 +10,11 @@
 - [Ferramentas Utilizadas](#ferramentas-utilizadasAPI)
 
 ## Como funciona?✔️
-<p>O GT (Gerenciador de tarefas) funciona como um apoio de execusão de tarefas, ordenando e listando as tarefas que devem serem feitas pelo aluno! O site fornece um sistema onde será adicionado a tarefa, descrição da tarefa e seu prazo de entrega! .</p>
+<p>O GT (Gerenciador de tarefas) funciona como um apoio de execusão de tarefas, ordenando e listando as tarefas que devem serem feitas pelo aluno! O site fornece um sistema onde será adicionado a tarefa, descrição da tarefa e seu prazo de entrega!</p>
 
 ## Funcões✔️
 <p>• Permitir que o usuário acesse através do login. </p>
-<p>• Caso o usuário não obtenha uma conta, o site fornece uma tela para a criação do cadastro com as informaçõe do usuário: Nome, email e senha.</p>
+<p>• Caso o usuário não obtenha uma conta, o site fornece uma tela para a criação do cadastro com as informações do usuário: Nome, email e senha.</p>
 <p>• Permitir que o usuário adicione sua tarefa com uma descrição e prazo de entrega. </p>
 <p>• Substituir uma tarefa já existente. </p>
 
