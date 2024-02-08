@@ -1,4 +1,4 @@
-# <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoGbozn_CvaBPH08tgAn7vvZMzeQVX33zKOw&usqp=CAU](https://www.canva.com/design/DAF8J7EKyIc/EKYYx6DyZPHsIBzaG6cBiA/edit?utm_content=DAF8J7EKyIc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"  width="100" height="100" >
+# <img src=""  width="100" height="100" >
 
 <p> GT </p>
 <p> O GT é um sistema de gerenciamento de tarefas que vai facilitar a sua vida! Normalmente, enfrentamos rotinas cheias e embaraçosas que acabam afetando na realização de tarefas importantes, por isso estamos aqui para te ajudar! O nosso sistema irá te auxiliar como lembrete de tarefas e seus prazos, assim sua rotina mantém-se organizada e concluída com sucesso!  </p>
